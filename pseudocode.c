@@ -1,0 +1,6 @@
+#include "main.h"
+#include "FreeRTOS.h"
+#include "sim800l.h"
+#include "ssd1306.h"
+#include "max30102.h"
+#include "queue.h"
